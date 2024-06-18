@@ -1,0 +1,14 @@
+.fondo{
+    text-align: center;
+    width: 1350px;/*ancho*/
+    height: 300px;/*largo*/
+}
+
+#titulo{
+    text-align: center;
+    background-color: aqua;
+    border: 1px solid black ;
+    /*grosor,estilo,color*/
+    font-size: xx-large;
+}
+
