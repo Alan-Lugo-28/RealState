@@ -4,3 +4,8 @@ const json = {
     habitaciones:10
 }
 console.log(json);
+ class Persona {
+    Persona(){
+        
+    }
+ }
